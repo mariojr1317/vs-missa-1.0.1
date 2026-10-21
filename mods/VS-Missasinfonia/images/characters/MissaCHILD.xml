@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="MissaCHILD.png" width="815" height="499">
+  <SubTexture name="MissaCHILDderecha.png" x="0" y="0"  width="252" height="304" frameX="-1" frameY="-1" frameWidth="255" frameHeight="306"/>
+  <SubTexture name="MissaCHILDIdle.png" x="252" y="0"  width="286" height="208" frameX="-1" frameY="-1" frameWidth="288" frameHeight="212"/>
+  <SubTexture name="MissaCHILDarriba.png" x="538" y="0"  width="277" height="221" frameX="-1" frameY="-1" frameWidth="279" frameHeight="223"/>
+  <SubTexture name="MissaCHILDizquierda.png" x="252" y="208"  width="233" height="210" frameX="-1" frameY="-1" frameWidth="238" frameHeight="198"/>
+  <SubTexture name="MissaCHILDabajo.png" x="0" y="304"  width="229" height="195" frameX="-1" frameY="-1" frameWidth="231" frameHeight="197"/>
+</TextureAtlas>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Missa_Billy_Intro.png" width="4896" height="4805">
+	<SubTexture name="Billy duelo0000" x="2652" y="2355" width="638" height="547" rotated="true" frameX="-493" frameY="-27" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0001" x="3813" y="1" width="535" height="621" frameX="-493" frameY="-43" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0002" x="3581" y="3638" width="544" height="612" frameX="-493" frameY="-53" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0003" x="3778" y="1244" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0004" x="3762" y="1854" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0005" x="3758" y="2464" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0006" x="1" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0007" x="611" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0008" x="611" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0009" x="1221" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0010" x="1221" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0011" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0012" x="2441" y="4251" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0013" x="2441" y="4251" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0014" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0015" x="611" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0016" x="611" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0017" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0018" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0019" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0020" x="3051" y="4251" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0021" x="3661" y="4251" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0022" x="4349" y="1" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0023" x="4349" y="611" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0024" x="611" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0025" x="611" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0026" x="1221" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0027" x="1221" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0028" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0029" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0030" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0031" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0032" x="3778" y="1244" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0033" x="1" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0034" x="3778" y="1244" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0035" x="3762" y="1854" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0036" x="611" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0037" x="611" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0038" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0039" x="2441" y="4251" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0040" x="611" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0041" x="611" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0042" x="3778" y="1244" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0043" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0044" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0045" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0046" x="3778" y="1244" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0047" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0048" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0049" x="4271" y="3074" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0050" x="4271" y="3074" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0051" x="4271" y="3074" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0052" x="3778" y="1244" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0053" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0054" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0055" x="3778" y="1244" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0056" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0057" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0058" x="2441" y="4251" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0059" x="2441" y="4251" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0060" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0061" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0062" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0063" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0064" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0065" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0066" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0067" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0068" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0069" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0070" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0071" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0072" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0073" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0074" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0075" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0076" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0077" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0078" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0079" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0080" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0081" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0082" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0083" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0084" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0085" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0086" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0087" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0088" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0089" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0090" x="3778" y="1244" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0091" x="1" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0092" x="3778" y="1244" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0093" x="3762" y="1854" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0094" x="2441" y="4251" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0095" x="611" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0096" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0097" x="2441" y="4251" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0098" x="611" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0099" x="611" y="4258" width="609" height="546" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0100" x="3778" y="1244" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0101" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0102" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0103" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0104" x="3778" y="1244" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0105" x="3762" y="1854" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0106" x="3758" y="2464" width="546" height="609" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0107" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0108" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0109" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0110" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0111" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0112" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0113" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0114" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0115" x="1831" y="4255" width="609" height="547" rotated="true" frameX="-493" frameY="-56" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0116" x="3778" y="632" width="536" height="611" frameX="-493" frameY="-53" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0117" x="2958" y="3638" width="622" height="517" rotated="true" frameX="-482" frameY="-43" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0118" x="1" y="3230" width="637" height="564" rotated="true" frameX="-384" frameY="-28" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0119" x="2900" y="1" width="476" height="652" frameX="-420" frameY="-13" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0120" x="1330" y="2644" width="661" height="488" rotated="true" frameX="-403" frameY="-4" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0121" x="802" y="935" width="504" height="664" frameX="-386" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0122" x="1715" y="799" width="664" height="509" rotated="true" frameX="-381" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0123" x="1" y="1718" width="664" height="509" rotated="true" frameX="-381" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0124" x="666" y="1718" width="664" height="508" rotated="true" frameX="-382" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0125" x="1331" y="1309" width="521" height="664" frameX="-369" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0126" x="1853" y="1309" width="510" height="664" frameX="-380" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0127" x="1" y="2228" width="664" height="470" rotated="true" frameX="-420" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0128" x="666" y="2227" width="664" height="416" rotated="true" frameX="-474" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0129" x="1331" y="1974" width="399" height="664" frameX="-491" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0130" x="1731" y="1974" width="399" height="664" frameX="-491" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0131" x="2500" y="1" width="399" height="664" frameX="-491" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0132" x="2500" y="666" width="399" height="664" frameX="-491" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0133" x="2131" y="1974" width="439" height="664" frameX="-451" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0134" x="1" y="2699" width="664" height="530" rotated="true" frameX="-360" frameY="-0" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0135" x="666" y="2644" width="663" height="515" rotated="true" frameX="-375" frameY="-2" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0136" x="1992" y="2639" width="659" height="508" rotated="true" frameX="-382" frameY="-6" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0137" x="2652" y="1331" width="652" height="507" rotated="true" frameX="-384" frameY="-13" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0138" x="2652" y="1839" width="642" height="515" rotated="true" frameX="-386" frameY="-23" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0139" x="666" y="3160" width="514" height="634" frameX="-403" frameY="-30" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0140" x="1181" y="3160" width="468" height="631" frameX="-457" frameY="-33" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0141" x="1650" y="3148" width="435" height="630" frameX="-494" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0142" x="2086" y="3148" width="435" height="630" frameX="-494" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0143" x="2522" y="3148" width="435" height="630" frameX="-494" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0144" x="2900" y="654" width="435" height="630" frameX="-494" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0145" x="3377" y="1" width="435" height="630" frameX="-494" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0146" x="3377" y="1" width="435" height="630" frameX="-494" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0147" x="1" y="1" width="929" height="933" frameX="-0" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0148" x="1" y="935" width="800" height="782" frameX="-129" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0149" x="1715" y="1" width="784" height="797" rotated="true" frameX="-132" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0150" x="931" y="1" width="783" height="807" rotated="true" frameX="-122" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0151" x="1" y="935" width="800" height="782" frameX="-129" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0152" x="1715" y="1" width="784" height="797" rotated="true" frameX="-132" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0153" x="931" y="1" width="783" height="807" rotated="true" frameX="-122" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0154" x="1" y="935" width="800" height="782" frameX="-129" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0155" x="1715" y="1" width="784" height="797" rotated="true" frameX="-132" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0156" x="931" y="1" width="783" height="807" rotated="true" frameX="-122" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0157" x="1" y="935" width="800" height="782" frameX="-129" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0158" x="1715" y="1" width="784" height="797" rotated="true" frameX="-132" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0159" x="1" y="1" width="929" height="933" frameX="-0" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0160" x="3377" y="1" width="435" height="630" frameX="-494" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0161" x="3377" y="1" width="435" height="630" frameX="-494" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0162" x="3377" y="1" width="435" height="630" frameX="-494" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0163" x="3336" y="654" width="441" height="630" frameX="-495" frameY="-34" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0164" x="3305" y="1285" width="456" height="629" frameX="-497" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0165" x="3295" y="1915" width="462" height="629" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0166" x="3291" y="2545" width="462" height="629" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0167" x="3295" y="1915" width="462" height="629" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0168" x="3295" y="1915" width="462" height="629" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0169" x="2958" y="3175" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0170" x="1" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0171" x="3291" y="2545" width="462" height="629" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0172" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0173" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0174" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0175" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0176" x="3295" y="1915" width="462" height="629" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0177" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0178" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0179" x="3295" y="1915" width="462" height="629" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0180" x="3295" y="1915" width="462" height="629" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0181" x="2958" y="3175" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0182" x="3291" y="2545" width="462" height="629" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0183" x="1261" y="3792" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0184" x="1891" y="3779" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0185" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0186" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0187" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0188" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0189" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0190" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0191" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0192" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0193" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0194" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0195" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0196" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+	<SubTexture name="Billy duelo0197" x="631" y="3795" width="629" height="462" rotated="true" frameX="-498" frameY="-35" frameWidth="1040" frameHeight="967"/>
+</TextureAtlas>

@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				43,
+				-578
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "KirbyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				-540
+			],
+			"anim": "morir",
+			"fps": 24,
+			"name": "KirbyTeQuieresMorir",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-585
+			],
+			"anim": "doctorado",
+			"fps": 24,
+			"name": "KirbyConDoctorado",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-585
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KirbyLEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-586
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "KirbyRIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-586
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KirbyDOWN NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-564
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KirbyUP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-484
+			],
+			"anim": "comer",
+			"fps": 24,
+			"name": "KirbyPastel",
+			"indices": []
+		},
+		{
+			"offsets": [
+				49,
+				-586
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "KirbyLEFT MISS"
+		},
+		{
+			"offsets": [
+				36,
+				-586
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "KirbyRIGHT MISS"
+		},
+		{
+			"offsets": [
+				50,
+				-587
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "KirbyDOWN MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-565
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "KirbyUP MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				399,
+				-279
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Anim",
+			"indices": [],
+			"name": "KirbyAnim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kirby",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "kirby",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		157,
+		194
+	],
+	"camera_position": [
+		250,
+		380
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

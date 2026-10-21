@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				159,
+				-40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Chef Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				-37
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Chef LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				-33
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Chef RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Chef DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				-21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Chef UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cheffini Missancio",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missa",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		110,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

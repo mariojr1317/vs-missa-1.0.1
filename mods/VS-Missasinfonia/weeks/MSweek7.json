@@ -1,0 +1,32 @@
+{
+	"storyName": "Cancioón Del missa",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "Stage",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Ignt-Ms",
+			"missaignt",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

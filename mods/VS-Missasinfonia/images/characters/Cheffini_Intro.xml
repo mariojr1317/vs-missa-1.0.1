@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Cheffini_Intro.png" width="4618" height="4645">
+	<SubTexture name="Chef video cocinando0000" x="3380" y="1071" width="707" height="536" rotated="true" frameX="-1" frameY="-8" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0001" x="3380" y="1071" width="707" height="536" rotated="true" frameX="-1" frameY="-8" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0002" x="2796" y="1071" width="541" height="706" frameX="-1" frameY="-9" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0003" x="2796" y="1071" width="541" height="706" frameX="-1" frameY="-9" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0004" x="2258" y="3919" width="560" height="709" frameX="-0" frameY="-6" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0005" x="2819" y="3919" width="560" height="709" frameX="-0" frameY="-6" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0006" x="1" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0007" x="566" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0008" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0009" x="536" y="1072" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0010" x="536" y="1072" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0011" x="536" y="1784" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0012" x="536" y="1784" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0013" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0014" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0015" x="536" y="2496" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0016" x="536" y="3208" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0017" x="1101" y="1071" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0018" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0019" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0020" x="536" y="1072" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0021" x="536" y="1072" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0022" x="536" y="1784" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0023" x="536" y="1784" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0024" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0025" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0026" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0027" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0028" x="1101" y="1783" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0029" x="1101" y="2495" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0030" x="1101" y="2495" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0031" x="1101" y="3207" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0032" x="1666" y="1071" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0033" x="1101" y="1783" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0034" x="1101" y="2495" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0035" x="1101" y="2495" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0036" x="1101" y="3207" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0037" x="1101" y="3207" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0038" x="1666" y="1783" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0039" x="1666" y="1783" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0040" x="1666" y="1783" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0041" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0042" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0043" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0044" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0045" x="1101" y="1783" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0046" x="536" y="1072" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0047" x="536" y="1072" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0048" x="536" y="1784" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0049" x="536" y="1784" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0050" x="1131" y="3933" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0051" x="1101" y="1783" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0052" x="1101" y="1783" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0053" x="1666" y="2495" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0054" x="1666" y="2495" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0055" x="1666" y="3207" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0056" x="1666" y="3207" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0057" x="2231" y="3207" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0058" x="2231" y="3207" width="564" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0059" x="1696" y="3919" width="561" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0060" x="1696" y="3919" width="561" height="711" frameX="-0" frameY="-4" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0061" x="1" y="1788" width="534" height="714" frameX="-2" frameY="-1" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0062" x="1" y="1788" width="534" height="714" frameX="-2" frameY="-1" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0063" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0064" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0065" x="1433" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0066" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0067" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0068" x="1433" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0069" x="2149" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0070" x="2149" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0071" x="2865" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0072" x="2865" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0073" x="3581" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0074" x="3581" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0075" x="717" y="536" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0076" x="717" y="536" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0077" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0078" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0079" x="717" y="536" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0080" x="717" y="536" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0081" x="1" y="537" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0082" x="1" y="537" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0083" x="1433" y="536" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0084" x="1433" y="536" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0085" x="2149" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0086" x="2865" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0087" x="2865" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0088" x="717" y="536" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0089" x="717" y="536" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0090" x="2149" y="536" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0091" x="1" y="537" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0092" x="1" y="537" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0093" x="2865" y="536" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0094" x="2865" y="536" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0095" x="2149" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0096" x="2149" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0097" x="2865" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0098" x="1" y="1" width="715" height="535" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0099" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0100" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0101" x="3581" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0102" x="3581" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0103" x="3581" y="536" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0104" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0105" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0106" x="1433" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0107" x="1" y="537" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0108" x="1" y="537" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0109" x="2865" y="536" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0110" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0111" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0112" x="2865" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0113" x="1" y="1072" width="534" height="715" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0114" x="2149" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0115" x="2149" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0116" x="2865" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0117" x="2865" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0118" x="1" y="1072" width="534" height="715" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0119" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0120" x="717" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0121" x="1433" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0122" x="1433" y="1" width="715" height="534" rotated="true" frameX="-2" frameY="-0" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0123" x="1" y="2503" width="534" height="714" frameX="-2" frameY="-1" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0124" x="1" y="3218" width="534" height="714" frameX="-2" frameY="-1" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0125" x="3856" y="3186" width="703" height="529" rotated="true" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0126" x="3856" y="3186" width="703" height="529" rotated="true" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0127" x="3856" y="3716" width="703" height="529" rotated="true" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0128" x="2231" y="1071" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0129" x="2231" y="1071" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0130" x="2231" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0131" x="2231" y="2481" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0132" x="2231" y="2481" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0133" x="4088" y="1071" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0134" x="4088" y="1071" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0135" x="3856" y="3716" width="703" height="529" rotated="true" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0136" x="3856" y="3716" width="703" height="529" rotated="true" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0137" x="2231" y="2481" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0138" x="2231" y="2481" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0139" x="3380" y="1608" width="704" height="529" rotated="true" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0140" x="3380" y="1608" width="704" height="529" rotated="true" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0141" x="2796" y="1778" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0142" x="2761" y="2483" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0143" x="2761" y="2483" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0144" x="2231" y="2481" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0145" x="2231" y="2481" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0146" x="2796" y="3188" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0147" x="2796" y="3188" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0148" x="3380" y="1608" width="704" height="529" rotated="true" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0149" x="3380" y="1608" width="704" height="529" rotated="true" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0150" x="2796" y="1778" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0151" x="2231" y="1071" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0152" x="2231" y="1071" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0153" x="2231" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0154" x="2231" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0155" x="3291" y="2483" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0156" x="2761" y="2483" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0157" x="2761" y="2483" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0158" x="3326" y="3188" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0159" x="2231" y="2481" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0160" x="2231" y="2481" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0161" x="4088" y="1071" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0162" x="4088" y="1071" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0163" x="3856" y="3716" width="703" height="529" rotated="true" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0164" x="3856" y="3716" width="703" height="529" rotated="true" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0165" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0166" x="2761" y="2483" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0167" x="2761" y="2483" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0168" x="3326" y="3188" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0169" x="3326" y="3188" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0170" x="3821" y="2481" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0171" x="3821" y="2481" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0172" x="3821" y="2481" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0173" x="3821" y="2481" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0174" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0175" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0176" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0177" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0178" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0179" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0180" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0181" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0182" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0183" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0184" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0185" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0186" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0187" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0188" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0189" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0190" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0191" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+	<SubTexture name="Chef video cocinando0192" x="4085" y="1776" width="529" height="704" frameX="-2" frameY="-12" frameWidth="564" frameHeight="716"/>
+</TextureAtlas>

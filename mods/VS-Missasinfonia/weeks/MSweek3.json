@@ -1,0 +1,59 @@
+{
+	"storyName": "otro video?",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "cuadros",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"disco",
+		"missasinfonia",
+		""
+	],
+	"songs": [
+		[
+			"billy",
+			"missabilly",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"pizza",
+			"missa",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"goodfun",
+			"missaNEON",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"wizard",
+			"missamago",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

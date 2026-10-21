@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				405,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Duelo",
+			"indices": [],
+			"name": "Billy duelo"
+		},
+		{
+			"offsets": [
+				405,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Billy duelo"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Missa_Billy_Intro",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missabilly",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		-70,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

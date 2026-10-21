@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="titleEnter.png" width="5484" height="5431">
+	<SubTexture name="ENTER PRESSED instance 10000" x="4182" y="2728" width="1045" height="528" frameX="-0" frameY="-33" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10001" x="1046" y="3255" width="1045" height="528" frameX="-0" frameY="-33" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10002" x="2093" y="3786" width="1046" height="529" frameX="-0" frameY="-32" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10003" x="4408" y="3786" width="1046" height="533" frameX="-0" frameY="-28" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10004" x="1339" y="4316" width="1053" height="541" frameX="-0" frameY="-20" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10005" x="4892" y="4320" width="551" height="1076" rotated="true" frameX="-0" frameY="-10" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10006" x="1" y="4846" width="1104" height="560" frameX="-0" frameY="-1" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10007" x="3402" y="4869" width="1130" height="561" frameX="-0" frameY="-0" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10008" x="1106" y="4858" width="1143" height="560" frameX="-0" frameY="-1" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10009" x="2250" y="4860" width="1151" height="560" frameX="-0" frameY="-1" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10010" x="3693" y="4320" width="1198" height="548" frameX="-0" frameY="-13" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10011" x="3140" y="3786" width="1267" height="531" frameX="-0" frameY="-30" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10012" x="2393" y="4318" width="1299" height="541" frameX="-0" frameY="-20" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10013" x="1" y="4314" width="1337" height="531" frameX="-0" frameY="-30" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10014" x="2495" y="589" width="1450" height="497" frameX="-0" frameY="-64" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10015" x="3946" y="635" width="1537" height="512" frameX="-0" frameY="-49" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10016" x="1045" y="485" width="1449" height="483" frameX="-0" frameY="-78" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10017" x="2585" y="111" width="1537" height="477" frameX="-0" frameY="-84" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10018" x="1357" y="111" width="1227" height="373" frameX="-0" frameY="-188" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10019" x="1" y="111" width="1355" height="289" frameX="-0" frameY="-272" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10020" x="1" y="1" width="830" height="109" frameX="-1" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10021" x="832" y="1" width="831" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10022" x="832" y="1" width="831" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10023" x="1" y="1" width="830" height="109" frameX="-1" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10024" x="832" y="1" width="831" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10025" x="1" y="1" width="830" height="109" frameX="-1" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10026" x="832" y="1" width="831" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10027" x="1664" y="1" width="830" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10028" x="1664" y="1" width="830" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10029" x="2495" y="1" width="830" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10030" x="1664" y="1" width="830" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10031" x="1664" y="1" width="830" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10032" x="3326" y="1" width="830" height="109" frameX="-1" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10033" x="4157" y="1" width="830" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10034" x="4157" y="1" width="830" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10035" x="4157" y="1" width="830" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10036" x="4157" y="1" width="830" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10037" x="4157" y="1" width="830" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10038" x="4157" y="1" width="830" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10039" x="4157" y="1" width="830" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="ENTER PRESSED instance 10040" x="4157" y="1" width="830" height="109" frameX="-0" frameY="-452" frameWidth="1538" frameHeight="567"/>
+	<SubTexture name="Press Enter to Begin instance 10000" x="2092" y="3256" width="1045" height="528" frameX="-0" frameY="-1" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10001" x="3138" y="3257" width="1045" height="528" frameX="-0" frameY="-1" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10002" x="4184" y="3257" width="1045" height="528" frameX="-0" frameY="-1" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10003" x="4180" y="2200" width="1044" height="527" frameX="-0" frameY="-2" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10004" x="4177" y="1673" width="1045" height="526" frameX="-0" frameY="-3" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10005" x="2089" y="2199" width="1044" height="526" frameX="-0" frameY="-3" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10006" x="3134" y="2200" width="1045" height="526" frameX="-0" frameY="-4" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10007" x="4123" y="111" width="1045" height="523" frameX="-0" frameY="-6" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10008" x="1045" y="969" width="1044" height="524" frameX="-0" frameY="-6" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10009" x="2090" y="1087" width="1044" height="524" frameX="-0" frameY="-6" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10010" x="3135" y="1148" width="1044" height="524" frameX="-0" frameY="-6" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10011" x="4180" y="1148" width="1043" height="524" frameX="-0" frameY="-6" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10012" x="1" y="1449" width="1043" height="524" frameX="-0" frameY="-6" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10013" x="1" y="401" width="1043" height="523" frameX="-0" frameY="-6" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10014" x="1045" y="1494" width="1043" height="524" frameX="-0" frameY="-6" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10015" x="1" y="925" width="1043" height="523" frameX="-0" frameY="-6" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10016" x="3133" y="1673" width="1043" height="525" frameX="-0" frameY="-5" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10017" x="2089" y="1612" width="1043" height="524" frameX="-0" frameY="-5" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10018" x="1045" y="2019" width="1043" height="527" frameX="-0" frameY="-3" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10019" x="1" y="1974" width="1043" height="526" frameX="-0" frameY="-3" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10020" x="1" y="2547" width="1044" height="527" frameX="-0" frameY="-2" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10021" x="1046" y="2726" width="1044" height="527" frameX="-0" frameY="-2" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10022" x="2091" y="2727" width="1044" height="527" frameX="-0" frameY="-2" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10023" x="3136" y="2728" width="1045" height="527" frameX="-0" frameY="-2" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10024" x="1" y="3784" width="1045" height="528" frameX="-0" frameY="-1" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10025" x="1" y="3075" width="1044" height="528" frameX="-0" frameY="-1" frameWidth="1046" frameHeight="535"/>
+	<SubTexture name="Press Enter to Begin instance 10026" x="1047" y="3785" width="1045" height="528" frameX="-0" frameY="-1" frameWidth="1046" frameHeight="535"/>
+</TextureAtlas>

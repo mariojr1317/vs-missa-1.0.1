@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="MissasinfoniaCool.png" width="3173" height="3188">
+	<SubTexture name="MissaCoolDOWN0000" x="2472" y="2512" width="405" height="578" frameX="-11" frameY="-24" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0001" x="2492" y="2020" width="578" height="405" rotated="true" frameX="-11" frameY="-24" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0002" x="2085" y="1915" width="406" height="596" frameX="-3" frameY="-7" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0003" x="2065" y="2512" width="406" height="596" frameX="-3" frameY="-7" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0004" x="2085" y="1312" width="410" height="602" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0005" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0006" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0007" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0008" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0009" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0010" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0011" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0012" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0013" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0014" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0015" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0016" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0017" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0018" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0019" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0020" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0021" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0022" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0023" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolDOWN0024" x="2496" y="1609" width="602" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="416" frameHeight="603"/>
+	<SubTexture name="MissaCoolIdle0000" x="1163" y="2080" width="419" height="683" frameX="-1" frameY="-10" frameWidth="421" frameHeight="695"/>
+	<SubTexture name="MissaCoolIdle0001" x="1264" y="1379" width="418" height="683" frameX="-2" frameY="-10" frameWidth="421" frameHeight="695"/>
+	<SubTexture name="MissaCoolIdle0002" x="1250" y="694" width="407" height="684" frameX="-11" frameY="-9" frameWidth="421" frameHeight="695"/>
+	<SubTexture name="MissaCoolIdle0003" x="1262" y="1" width="381" height="684" frameX="-37" frameY="-9" frameWidth="421" frameHeight="695"/>
+	<SubTexture name="MissaCoolIdle0004" x="780" y="2086" width="382" height="689" frameX="-35" frameY="-5" frameWidth="421" frameHeight="695"/>
+	<SubTexture name="MissaCoolIdle0005" x="856" y="1390" width="407" height="689" frameX="-10" frameY="-5" frameWidth="421" frameHeight="695"/>
+	<SubTexture name="MissaCoolIdle0006" x="857" y="1" width="404" height="692" frameX="-13" frameY="-2" frameWidth="421" frameHeight="695"/>
+	<SubTexture name="MissaCoolIdle0007" x="695" y="2783" width="692" height="390" rotated="true" frameX="-27" frameY="-2" frameWidth="421" frameHeight="695"/>
+	<SubTexture name="MissaCoolIdle0008" x="1" y="2089" width="383" height="693" frameX="-34" frameY="-1" frameWidth="421" frameHeight="695"/>
+	<SubTexture name="MissaCoolIdle0009" x="1" y="2783" width="693" height="394" rotated="true" frameX="-23" frameY="-1" frameWidth="421" frameHeight="695"/>
+	<SubTexture name="MissaCoolIdle0010" x="1" y="2783" width="693" height="394" rotated="true" frameX="-23" frameY="-1" frameWidth="421" frameHeight="695"/>
+	<SubTexture name="MissaCoolIdle0011" x="385" y="2089" width="394" height="693" frameX="-23" frameY="-1" frameWidth="421" frameHeight="695"/>
+	<SubTexture name="MissaCoolIdle0012" x="385" y="2089" width="394" height="693" frameX="-23" frameY="-1" frameWidth="421" frameHeight="695"/>
+	<SubTexture name="MissaCoolLEFT0000" x="2529" y="1111" width="639" height="497" rotated="true" frameX="-0" frameY="-35" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0001" x="2529" y="1111" width="639" height="497" rotated="true" frameX="-0" frameY="-35" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0002" x="2529" y="646" width="643" height="464" rotated="true" frameX="-34" frameY="-31" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0003" x="2529" y="646" width="643" height="464" rotated="true" frameX="-34" frameY="-31" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0004" x="2082" y="667" width="446" height="644" frameX="-53" frameY="-30" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0005" x="2082" y="667" width="446" height="644" frameX="-53" frameY="-30" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0006" x="2459" y="1" width="439" height="644" frameX="-60" frameY="-30" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0007" x="2459" y="1" width="439" height="644" frameX="-60" frameY="-30" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0008" x="2459" y="1" width="439" height="644" frameX="-60" frameY="-30" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0009" x="2459" y="1" width="439" height="644" frameX="-60" frameY="-30" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0010" x="2459" y="1" width="439" height="644" frameX="-60" frameY="-30" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0011" x="2459" y="1" width="439" height="644" frameX="-60" frameY="-30" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0012" x="2459" y="1" width="439" height="644" frameX="-60" frameY="-30" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0013" x="2459" y="1" width="439" height="644" frameX="-60" frameY="-30" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0014" x="2459" y="1" width="439" height="644" frameX="-60" frameY="-30" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0015" x="2459" y="1" width="439" height="644" frameX="-60" frameY="-30" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0016" x="2459" y="1" width="439" height="644" frameX="-60" frameY="-30" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0017" x="1683" y="1360" width="401" height="657" frameX="-98" frameY="-17" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolLEFT0018" x="1644" y="1" width="395" height="684" frameX="-114" frameY="-0" frameWidth="510" frameHeight="684"/>
+	<SubTexture name="MissaCoolQue0000" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0001" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0002" x="462" y="1" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0003" x="462" y="1" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0004" x="461" y="1392" width="394" height="693" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0005" x="461" y="1392" width="394" height="693" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0006" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0007" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0008" x="462" y="1" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0009" x="855" y="696" width="394" height="693" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0010" x="462" y="1" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0011" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0012" x="462" y="1" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0013" x="462" y="1" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0014" x="461" y="1392" width="394" height="693" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0015" x="461" y="1392" width="394" height="693" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0016" x="462" y="1" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0017" x="462" y="1" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0018" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0019" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0020" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0021" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0022" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0023" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0024" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0025" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0026" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0027" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0028" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0029" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0030" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0031" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0032" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0033" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0034" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0035" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0036" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0037" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0038" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0039" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0040" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0041" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0042" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0043" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0044" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0045" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0046" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0047" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0048" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0049" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0050" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0051" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0052" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0053" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0054" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0055" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0056" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0057" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0058" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0059" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0060" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolQue0061" x="460" y="697" width="394" height="694" frameX="-0" frameY="-1" frameWidth="395" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0000" x="1" y="1" width="460" height="695" frameX="-13" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0001" x="1" y="1" width="460" height="695" frameX="-13" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0002" x="1" y="697" width="458" height="695" frameX="-10" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0003" x="1" y="697" width="458" height="695" frameX="-10" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0004" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0005" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0006" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0007" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0008" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0009" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0010" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0011" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0012" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0013" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0014" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0015" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0016" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0017" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0018" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0019" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0020" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0021" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0022" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0023" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0024" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0025" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0026" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0027" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0028" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0029" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0030" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0031" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0032" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0033" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0034" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0035" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolRIGHT0036" x="1" y="1393" width="459" height="695" frameX="-0" frameY="-0" frameWidth="474" frameHeight="695"/>
+	<SubTexture name="MissaCoolUP0000" x="1388" y="2764" width="676" height="423" rotated="true" frameX="-0" frameY="-1" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0001" x="1388" y="2764" width="676" height="423" rotated="true" frameX="-0" frameY="-1" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0002" x="1658" y="686" width="423" height="673" frameX="-0" frameY="-4" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0003" x="1658" y="686" width="423" height="673" frameX="-0" frameY="-4" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0004" x="2040" y="1" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0005" x="2040" y="1" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0006" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0007" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0008" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0009" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0010" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0011" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0012" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0013" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0014" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0015" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0016" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0017" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0018" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0019" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0020" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0021" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0022" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0023" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0024" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0025" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0026" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0027" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0028" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0029" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0030" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0031" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0032" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0033" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0034" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0035" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0036" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0037" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0038" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0039" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0040" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0041" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0042" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0043" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0044" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+	<SubTexture name="MissaCoolUP0045" x="1583" y="2063" width="418" height="665" frameX="-1" frameY="-12" frameWidth="424" frameHeight="678"/>
+</TextureAtlas>

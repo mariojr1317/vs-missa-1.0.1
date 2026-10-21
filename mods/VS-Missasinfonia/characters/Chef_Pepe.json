@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				-35
+			],
+			"anim": "pepe",
+			"fps": 24,
+			"name": "Chef pepe botellas",
+			"indices": []
+		},
+		{
+			"offsets": [
+				162,
+				-35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Chef pepe botellas"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cheffini_Pepe_Botellas",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missa",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		110,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

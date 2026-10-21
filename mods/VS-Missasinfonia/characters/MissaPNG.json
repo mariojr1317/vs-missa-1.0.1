@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				267,
+				19
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Missa Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				306,
+				19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Missa LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				204,
+				21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Missa RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				249,
+				-57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Missa DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				287,
+				76
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Missa UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				267,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Missa Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MissaPNG",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "no",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		29,
+		28
+	],
+	"camera_position": [
+		-70,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

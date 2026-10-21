@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Missasinfonia.png" width="3099" height="3156">
+	<SubTexture name="MissaPensandoIdle0000" x="751" y="2281" width="368" height="682" frameX="-0" frameY="-11" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0001" x="751" y="2281" width="368" height="682" frameX="-0" frameY="-11" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0002" x="381" y="2197" width="369" height="684" frameX="-1" frameY="-9" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0003" x="381" y="2197" width="369" height="684" frameX="-1" frameY="-9" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0004" x="1389" y="1429" width="688" height="372" rotated="true" frameX="-2" frameY="-5" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0005" x="1389" y="1429" width="688" height="372" rotated="true" frameX="-2" frameY="-5" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0006" x="2083" y="1072" width="692" height="375" rotated="true" frameX="-2" frameY="-1" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0007" x="2083" y="1072" width="692" height="375" rotated="true" frameX="-2" frameY="-1" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0008" x="1" y="360" width="693" height="376" rotated="true" frameX="-2" frameY="-0" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0009" x="1" y="360" width="693" height="376" rotated="true" frameX="-2" frameY="-0" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0010" x="1" y="360" width="693" height="376" rotated="true" frameX="-2" frameY="-0" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0011" x="1" y="360" width="693" height="376" rotated="true" frameX="-2" frameY="-0" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0012" x="1" y="360" width="693" height="376" rotated="true" frameX="-2" frameY="-0" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0013" x="751" y="2281" width="368" height="682" frameX="-0" frameY="-11" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0014" x="751" y="2281" width="368" height="682" frameX="-0" frameY="-11" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0015" x="381" y="2197" width="369" height="684" frameX="-1" frameY="-9" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0016" x="381" y="2197" width="369" height="684" frameX="-1" frameY="-9" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0017" x="1389" y="1429" width="688" height="372" rotated="true" frameX="-2" frameY="-5" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0018" x="1389" y="1429" width="688" height="372" rotated="true" frameX="-2" frameY="-5" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0019" x="2083" y="1072" width="692" height="375" rotated="true" frameX="-2" frameY="-1" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0020" x="2083" y="1072" width="692" height="375" rotated="true" frameX="-2" frameY="-1" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0021" x="1" y="360" width="693" height="376" rotated="true" frameX="-2" frameY="-0" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0022" x="1" y="360" width="693" height="376" rotated="true" frameX="-2" frameY="-0" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0023" x="1" y="360" width="693" height="376" rotated="true" frameX="-2" frameY="-0" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0024" x="1" y="360" width="693" height="376" rotated="true" frameX="-2" frameY="-0" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoIdle0025" x="1" y="360" width="693" height="376" rotated="true" frameX="-2" frameY="-0" frameWidth="380" frameHeight="695"/>
+	<SubTexture name="MissaPensandoQue0000" x="1620" y="2281" width="406" height="679" frameX="-0" frameY="-15" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0001" x="1620" y="2281" width="406" height="679" frameX="-0" frameY="-15" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0002" x="1" y="1" width="694" height="358" rotated="true" frameX="-0" frameY="-0" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0003" x="696" y="1" width="694" height="380" rotated="true" frameX="-0" frameY="-0" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0004" x="1391" y="1" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0005" x="1391" y="1" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0006" x="2085" y="1" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0007" x="2085" y="1" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0008" x="2085" y="1" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0009" x="2085" y="1" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0010" x="2085" y="1" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0011" x="2085" y="1" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0012" x="2085" y="1" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0013" x="2085" y="1" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0014" x="1391" y="358" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0015" x="1391" y="358" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0016" x="695" y="382" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0017" x="1" y="737" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0018" x="2085" y="358" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0019" x="2085" y="358" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0020" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0021" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0022" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0023" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0024" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0025" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0026" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0027" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0028" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0029" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0030" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0031" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0032" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0033" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0034" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0035" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0036" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0037" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0038" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0039" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0040" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0041" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0042" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0043" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0044" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0045" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0046" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0047" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0048" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0049" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0050" x="695" y="739" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0051" x="695" y="739" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0052" x="1" y="1094" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0053" x="1" y="1094" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0054" x="2083" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0055" x="1389" y="1072" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0056" x="1389" y="1072" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0057" x="695" y="1096" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0058" x="695" y="1096" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0059" x="2083" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0060" x="1" y="1451" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0061" x="1" y="1451" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0062" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0063" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0064" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0065" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0066" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0067" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0068" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0069" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0070" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0071" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0072" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0073" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0074" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0075" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0076" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0077" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0078" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0079" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0080" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0081" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0082" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0083" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0084" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0085" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0086" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0087" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0088" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0089" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0090" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0091" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0092" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0093" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0094" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0095" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0096" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0097" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0098" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0099" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0100" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0101" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0102" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0103" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0104" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0105" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0106" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0107" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0108" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0109" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0110" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0111" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0112" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0113" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0114" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0115" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0116" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0117" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0118" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0119" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0120" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0121" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0122" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0123" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0124" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0125" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0126" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0127" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0128" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0129" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0130" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0131" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0132" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0133" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0134" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0135" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0136" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0137" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0138" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0139" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0140" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0141" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0142" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0143" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0144" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0145" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0146" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0147" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0148" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0149" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0150" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0151" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0152" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0153" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0154" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0155" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0156" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0157" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0158" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0159" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0160" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0161" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0162" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0163" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0164" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0165" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0166" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0167" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0168" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0169" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0170" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0171" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0172" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0173" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0174" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0175" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0176" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0177" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0178" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0179" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0180" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0181" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0182" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0183" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0184" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0185" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0186" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0187" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0188" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0189" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0190" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0191" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0192" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0193" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0194" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0195" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0196" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0197" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0198" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0199" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0200" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0201" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0202" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0203" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0204" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0205" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0206" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0207" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0208" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0209" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0210" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0211" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0212" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0213" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoQue0214" x="1389" y="715" width="693" height="356" rotated="true" frameX="-0" frameY="-1" frameWidth="408" frameHeight="696"/>
+	<SubTexture name="MissaPensandoDOWN0000" x="2438" y="2751" width="578" height="404" rotated="true" frameX="-0" frameY="-23" frameWidth="417" frameHeight="604"/>
+	<SubTexture name="MissaPensandoDOWN0001" x="2438" y="2751" width="578" height="404" rotated="true" frameX="-0" frameY="-23" frameWidth="417" frameHeight="604"/>
+	<SubTexture name="MissaPensandoDOWN0002" x="2438" y="2344" width="596" height="406" rotated="true" frameX="-6" frameY="-6" frameWidth="417" frameHeight="604"/>
+	<SubTexture name="MissaPensandoDOWN0003" x="2438" y="2344" width="596" height="406" rotated="true" frameX="-6" frameY="-6" frameWidth="417" frameHeight="604"/>
+	<SubTexture name="MissaPensandoDOWN0004" x="2027" y="2281" width="410" height="602" frameX="-5" frameY="-0" frameWidth="417" frameHeight="604"/>
+	<SubTexture name="MissaPensandoDOWN0005" x="2027" y="2281" width="410" height="602" frameX="-5" frameY="-0" frameWidth="417" frameHeight="604"/>
+	<SubTexture name="MissaPensandoDOWN0006" x="2438" y="1933" width="602" height="410" rotated="true" frameX="-5" frameY="-0" frameWidth="417" frameHeight="604"/>
+	<SubTexture name="MissaPensandoDOWN0007" x="2438" y="1933" width="602" height="410" rotated="true" frameX="-5" frameY="-0" frameWidth="417" frameHeight="604"/>
+	<SubTexture name="MissaPensandoLEFT0000" x="1" y="1808" width="686" height="388" rotated="true" frameX="-0" frameY="-1" frameWidth="391" frameHeight="689"/>
+	<SubTexture name="MissaPensandoLEFT0001" x="1" y="1808" width="686" height="388" rotated="true" frameX="-0" frameY="-1" frameWidth="391" frameHeight="689"/>
+	<SubTexture name="MissaPensandoLEFT0002" x="1" y="2197" width="379" height="686" frameX="-9" frameY="-1" frameWidth="391" frameHeight="689"/>
+	<SubTexture name="MissaPensandoLEFT0003" x="1" y="2197" width="379" height="686" frameX="-9" frameY="-1" frameWidth="391" frameHeight="689"/>
+	<SubTexture name="MissaPensandoLEFT0004" x="695" y="1453" width="687" height="378" rotated="true" frameX="-11" frameY="-0" frameWidth="391" frameHeight="689"/>
+	<SubTexture name="MissaPensandoLEFT0005" x="695" y="1453" width="687" height="378" rotated="true" frameX="-11" frameY="-0" frameWidth="391" frameHeight="689"/>
+	<SubTexture name="MissaPensandoRIGHT0000" x="1120" y="2281" width="499" height="682" frameX="-9" frameY="-3" frameWidth="510" frameHeight="687"/>
+	<SubTexture name="MissaPensandoRIGHT0001" x="1120" y="2281" width="499" height="682" frameX="-9" frameY="-3" frameWidth="510" frameHeight="687"/>
+	<SubTexture name="MissaPensandoRIGHT0002" x="2078" y="1448" width="683" height="484" rotated="true" frameX="-2" frameY="-2" frameWidth="510" frameHeight="687"/>
+	<SubTexture name="MissaPensandoRIGHT0003" x="2078" y="1448" width="683" height="484" rotated="true" frameX="-2" frameY="-2" frameWidth="510" frameHeight="687"/>
+	<SubTexture name="MissaPensandoRIGHT0004" x="1383" y="1802" width="683" height="478" rotated="true" frameX="-0" frameY="-2" frameWidth="510" frameHeight="687"/>
+	<SubTexture name="MissaPensandoRIGHT0005" x="1383" y="1802" width="683" height="478" rotated="true" frameX="-0" frameY="-2" frameWidth="510" frameHeight="687"/>
+	<SubTexture name="MissaPensandoUP0000" x="688" y="1832" width="676" height="343" rotated="true" frameX="-0" frameY="-1" frameWidth="345" frameHeight="679"/>
+	<SubTexture name="MissaPensandoUP0001" x="688" y="1832" width="676" height="343" rotated="true" frameX="-0" frameY="-1" frameWidth="345" frameHeight="679"/>
+	<SubTexture name="MissaPensandoUP0002" x="2779" y="1" width="316" height="658" frameX="-12" frameY="-19" frameWidth="345" frameHeight="679"/>
+	<SubTexture name="MissaPensandoUP0003" x="2779" y="1" width="316" height="658" frameX="-12" frameY="-19" frameWidth="345" frameHeight="679"/>
+	<SubTexture name="MissaPensandoUP0004" x="2779" y="660" width="319" height="656" frameX="-10" frameY="-21" frameWidth="345" frameHeight="679"/>
+	<SubTexture name="MissaPensandoUP0005" x="2779" y="660" width="319" height="656" frameX="-10" frameY="-21" frameWidth="345" frameHeight="679"/>
+</TextureAtlas>

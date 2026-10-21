@@ -1,0 +1,56 @@
+{
+	"animations": [
+		 {
+			"loop": false,
+			"offsets": [
+				0,
+				471
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Missa dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				305
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Missa Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-18,
+				282
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Missa Dead Loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Missa_Dead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "missa",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-450,
+		-320
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

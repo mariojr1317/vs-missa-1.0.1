@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Missa_Dead.png" width="4253" height="4101">
+	<SubTexture name="Missa Dead Loop0000" x="2425" y="2208" width="360" height="710" frameX="-1" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa Dead Loop0001" x="1529" y="2588" width="710" height="360" rotated="true" frameX="-1" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa Dead Loop0002" x="1529" y="2588" width="710" height="360" rotated="true" frameX="-1" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa Dead Loop0003" x="1" y="2657" width="710" height="360" rotated="true" frameX="-1" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa Dead Loop0004" x="1" y="2657" width="710" height="360" rotated="true" frameX="-1" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa Dead Loop0005" x="712" y="2657" width="710" height="360" rotated="true" frameX="-1" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa Dead Loop0006" x="712" y="2657" width="710" height="360" rotated="true" frameX="-1" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa Dead Loop0007" x="2515" y="1474" width="360" height="710" frameX="-1" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa Dead Loop0008" x="2515" y="1474" width="360" height="710" frameX="-1" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa Dead Loop0009" x="2515" y="1474" width="360" height="710" frameX="-1" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa Dead Loop0010" x="2515" y="1474" width="360" height="710" frameX="-1" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa Dead Loop0011" x="2515" y="1474" width="360" height="710" frameX="-1" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa Dead confirm0000" x="2786" y="2185" width="360" height="710" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0001" x="2563" y="755" width="360" height="710" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0002" x="2693" y="1" width="360" height="710" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0003" x="2240" y="2919" width="710" height="360" rotated="true" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0004" x="1423" y="2949" width="710" height="360" rotated="true" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0005" x="1" y="3018" width="710" height="360" rotated="true" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0006" x="712" y="3018" width="710" height="360" rotated="true" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0007" x="2876" y="1466" width="360" height="710" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0008" x="2924" y="712" width="360" height="710" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0009" x="3054" y="1" width="360" height="710" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0010" x="3147" y="2177" width="360" height="710" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0011" x="3147" y="2888" width="360" height="710" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0012" x="2134" y="3280" width="710" height="360" rotated="true" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0013" x="1423" y="3310" width="710" height="360" rotated="true" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0014" x="1" y="3379" width="710" height="360" rotated="true" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0015" x="712" y="3379" width="710" height="360" rotated="true" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0016" x="3237" y="1423" width="360" height="710" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa Dead confirm0017" x="3285" y="712" width="360" height="710" frameX="-1" frameY="-23" frameWidth="377" frameHeight="733"/>
+	<SubTexture name="Missa dies0000" x="837" y="2278" width="691" height="378" rotated="true" frameX="-0" frameY="-193" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0001" x="1722" y="2208" width="702" height="379" rotated="true" frameX="-21" frameY="-182" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0002" x="2226" y="1" width="466" height="753" frameX="-17" frameY="-131" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0003" x="1722" y="1604" width="792" height="603" rotated="true" frameX="-17" frameY="-92" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0004" x="1770" y="872" width="792" height="601" rotated="true" frameX="-19" frameY="-92" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0005" x="886" y="1604" width="835" height="673" rotated="true" frameX="-19" frameY="-49" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0006" x="1" y="1622" width="835" height="673" rotated="true" frameX="-19" frameY="-49" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0007" x="1517" y="1" width="708" height="870" frameX="-19" frameY="-14" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0008" x="1517" y="1" width="708" height="870" frameX="-19" frameY="-14" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0009" x="886" y="883" width="883" height="720" rotated="true" frameX="-19" frameY="-1" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0010" x="886" y="883" width="883" height="720" rotated="true" frameX="-19" frameY="-1" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0011" x="1" y="883" width="884" height="738" rotated="true" frameX="-19" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0012" x="1" y="883" width="884" height="738" rotated="true" frameX="-19" frameY="-0" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0013" x="765" y="1" width="751" height="881" frameX="-19" frameY="-3" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0014" x="765" y="1" width="751" height="881" frameX="-19" frameY="-3" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0015" x="1" y="1" width="763" height="880" frameX="-19" frameY="-4" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0016" x="1" y="1" width="763" height="880" frameX="-19" frameY="-4" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0017" x="3598" y="1423" width="360" height="695" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0018" x="3598" y="1423" width="360" height="695" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0019" x="3646" y="712" width="360" height="695" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0020" x="3646" y="712" width="360" height="695" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0021" x="3776" y="1" width="360" height="695" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0022" x="3776" y="1" width="360" height="695" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0023" x="3869" y="2119" width="360" height="695" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0024" x="3869" y="2815" width="360" height="695" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0025" x="3556" y="3556" width="696" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0026" x="3556" y="3556" width="696" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0027" x="1" y="2296" width="719" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0028" x="1" y="2296" width="719" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0029" x="3415" y="1" width="360" height="710" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0030" x="3415" y="1" width="360" height="710" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0031" x="3508" y="2134" width="360" height="710" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0032" x="3508" y="2134" width="360" height="710" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0033" x="3508" y="2845" width="360" height="710" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0034" x="3508" y="2134" width="360" height="710" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0035" x="3508" y="2134" width="360" height="710" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0036" x="2845" y="3599" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0037" x="2845" y="3599" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0038" x="2845" y="3599" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0039" x="2845" y="3599" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0040" x="2134" y="3641" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0041" x="2134" y="3641" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0042" x="2134" y="3641" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0043" x="2134" y="3641" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0044" x="1423" y="3671" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0045" x="1423" y="3671" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0046" x="1423" y="3671" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0047" x="1" y="3740" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0048" x="1" y="3740" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0049" x="1" y="3740" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0050" x="1" y="3740" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0051" x="712" y="3740" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0052" x="712" y="3740" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0053" x="712" y="3740" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0054" x="712" y="3740" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0055" x="712" y="3740" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+	<SubTexture name="Missa dies0056" x="712" y="3740" width="710" height="360" rotated="true" frameX="-19" frameY="-189" frameWidth="782" frameHeight="908"/>
+</TextureAtlas>

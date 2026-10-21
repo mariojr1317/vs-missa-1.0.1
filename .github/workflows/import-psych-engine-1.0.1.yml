@@ -1,0 +1,40 @@
+name: Importar código fuente de Psych Engine 1.0.1
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-source:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar este repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Descargar Psych Engine 1.0.1
+        run: |
+          git clone --depth 1 --branch 1.0.1 https://github.com/ShadowMario/FNF-PsychEngine.git /tmp/psych-engine
+
+      - name: Incorporar los archivos fuente
+        run: |
+          # Copia el código fuente en la raíz sin copiar el .git del proyecto original
+          # ni reemplazar este flujo de importación.
+          rsync -a --exclude='.git' --exclude='.github/workflows/import-psych-engine-1.0.1.yml' /tmp/psych-engine/ ./
+          # Deja claro de qué versión procede el código.
+          printf '\n\nCódigo base: Psych Engine 1.0.1 (etiqueta oficial 1.0.1).\n' >> IMPORT_SOURCE_INFO.txt
+
+      - name: Guardar los cambios en GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No hay cambios que guardar."
+            exit 0
+          fi
+          git commit -m "Importar código fuente de Psych Engine 1.0.1"
+          git push

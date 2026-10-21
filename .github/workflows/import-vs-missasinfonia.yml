@@ -1,0 +1,74 @@
+name: Importar mod VS Missasinfonia
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-mod:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Descargar y extraer el ZIP del mod
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fL --retry 3 \
+            "https://github.com/mariojr1317/vs-missa-1.0.1/releases/download/Psych-Engine-1.0.1/fnf_vs_missasinfonia_v3_fe527.zip" \
+            -o /tmp/vs-missasinfonia.zip
+          mkdir -p /tmp/vs-missasinfonia-unpacked
+          unzip -q /tmp/vs-missasinfonia.zip -d /tmp/vs-missasinfonia-unpacked
+
+          echo "Contenido de primer nivel del ZIP:"
+          find /tmp/vs-missasinfonia-unpacked -mindepth 1 -maxdepth 2 -print | head -100
+
+          # Si el ZIP contiene una sola carpeta contenedora, usar su contenido.
+          shopt -s dotglob nullglob
+          entries=(/tmp/vs-missasinfonia-unpacked/*)
+          SOURCE_DIR=/tmp/vs-missasinfonia-unpacked
+          if [[ ${#entries[@]} -eq 1 && -d "${entries[0]}" ]]; then
+            SOURCE_DIR="${entries[0]}"
+          fi
+
+          # Algunos ZIP de mods incluyen la carpeta mods/ por fuera.
+          if [[ -d "$SOURCE_DIR/mods" ]]; then
+            mapfile -t mod_dirs < <(find "$SOURCE_DIR/mods" -mindepth 1 -maxdepth 1 -type d)
+            if [[ ${#mod_dirs[@]} -eq 1 ]]; then
+              SOURCE_DIR="${mod_dirs[0]}"
+            fi
+          fi
+
+          mkdir -p mods/VS-Missasinfonia
+          cp -a "$SOURCE_DIR"/. mods/VS-Missasinfonia/
+
+          echo "Archivos copiados: $(find mods/VS-Missasinfonia -type f | wc -l)"
+          echo "Tamaño descomprimido:"
+          du -sh mods/VS-Missasinfonia
+
+          # Evitar subir accidentalmente archivos individuales que GitHub rechaza.
+          TOO_LARGE=$(find mods/VS-Missasinfonia -type f -size +100M -print)
+          if [[ -n "$TOO_LARGE" ]]; then
+            echo "::error::Hay archivos de más de 100 MB que GitHub no permite subir al repositorio:"
+            echo "$TOO_LARGE"
+            exit 1
+          fi
+
+      - name: Guardar el mod en GitHub
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mods/VS-Missasinfonia
+          if git diff --cached --quiet; then
+            echo "No hay cambios nuevos que guardar."
+            exit 0
+          fi
+          git commit -m "Importar mod VS Missasinfonia"
+          git push

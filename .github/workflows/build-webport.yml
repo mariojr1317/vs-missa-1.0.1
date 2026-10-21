@@ -53,9 +53,9 @@ jobs:
       - name: Find thread API usage
         run: |
           echo "Searching project source for sys.thread usage..."
-          grep -RInE 'sys\\.thread|Thread\\.(create|current|wait|yield)' source Project.xml 2>/dev/null | head -100 || true
+          grep -RInE 'sys\.thread|Thread\.(create|current|wait|yield)' source Project.xml 2>/dev/null | head -150 || true
           echo "Searching installed Haxe libraries for thread usage..."
-          grep -RInE 'sys\\.thread\\.Thread|sys\\.thread\\.Mutex' "$HOME/haxelib" 2>/dev/null | head -100 || true
+          grep -RInE 'sys\.thread(\.Thread|\.Mutex)?|Thread\.(create|current|wait|yield)' "$HOME/haxelib" 2>/dev/null | head -250 || true
 
       - name: Compile HTML5 (verbose diagnostic attempt)
         run: haxelib run lime build html5 -release -v

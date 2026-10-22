@@ -1,0 +1,81 @@
+name: Reemplazar archivos de PC por WebPort 1.0.1
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  replace-with-webport:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Descargar y preparar el ZIP del WebPort
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fL --retry 3 \
+            "https://github.com/mariojr1317/vs-missa-1.0.1/releases/download/Psych-Engine-1.0.1/PsychEngine.v1.0.1.zip" \
+            -o /tmp/psychengine-webport.zip
+          mkdir -p /tmp/webport
+          unzip -q /tmp/psychengine-webport.zip -d /tmp/webport
+
+          INDEX_PATH="$(find /tmp/webport -type f -name index.html -print -quit)"
+          if [[ -z "$INDEX_PATH" ]]; then
+            echo "::error::No se encontró index.html; no se tocará el repositorio."
+            exit 1
+          fi
+          WEB_ROOT="$(dirname "$INDEX_PATH")"
+          echo "WebPort detectado en: $WEB_ROOT"
+          echo "Archivos del WebPort: $(find "$WEB_ROOT" -type f | wc -l)"
+          du -sh "$WEB_ROOT"
+
+          # GitHub rechaza archivos individuales mayores de 100 MiB.
+          TOO_LARGE="$(find "$WEB_ROOT" -type f -size +95M -print)"
+          if [[ -n "$TOO_LARGE" ]]; then
+            echo "::error::El WebPort contiene archivos mayores de 95 MiB y no se puede subir directamente a Git. No se borrará ni reemplazará ningún archivo."
+            echo "$TOO_LARGE"
+            exit 1
+          fi
+
+          # Guardar el WebPort para el siguiente paso.
+          mkdir -p /tmp/webport-ready
+          cp -a "$WEB_ROOT"/. /tmp/webport-ready/
+
+      - name: Reemplazar los archivos de PC por los del WebPort
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Eliminar del índice y del árbol de trabajo los archivos rastreados,
+          # excepto los workflows necesarios para futuras ejecuciones.
+          git ls-files -z | while IFS= read -r -d '' file; do
+            case "$file" in
+              .github/workflows/*) ;;
+              *) git rm -f --ignore-unmatch -- "$file" >/dev/null ;;
+            esac
+          done
+
+          # Quitar carpetas residuales vacías y copiar el contenido del ZIP.
+          find . -mindepth 1 -maxdepth 1 ! -name .git ! -name .github -exec rm -rf -- {} +
+          cp -a /tmp/webport-ready/. .
+
+          test -f index.html
+          echo "index.html ya está en la raíz."
+          echo "Total de archivos preparados: $(find . -path ./.git -prune -o -type f -print | wc -l)"
+
+          git add -A
+          git add -f index.html
+          if git diff --cached --quiet; then
+            echo "El contenido ya coincide con el WebPort."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Reemplazar código de PC por Psych Engine WebPort 1.0.1"
+          git push

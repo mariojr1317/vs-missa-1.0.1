@@ -1,0 +1,39 @@
+name: Inspeccionar ZIPs de la Release
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar ZIP de Psych Engine 1.0.1
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fL --retry 3 "https://github.com/mariojr1317/vs-missa-1.0.1/releases/download/Psych-Engine-1.0.1/PsychEngine.v1.0.1.zip" -o /tmp/psych-engine.zip
+          echo "=== DATOS DEL ZIP DE PSYCH ENGINE ==="
+          ls -lh /tmp/psych-engine.zip
+          echo "=== PRIMEROS 100 ARCHIVOS ==="
+          unzip -Z1 /tmp/psych-engine.zip | head -100 || true
+          echo "=== ARCHIVOS IMPORTANTES ==="
+          unzip -Z1 /tmp/psych-engine.zip | grep -Ei '(^|/)index\.html$|(^|/)main\.js$|(^|/)project\.xml$|(^|/)mods/|(^|/)assets/' | head -150 || true
+          echo "=== TOTAL DE ARCHIVOS ==="
+          unzip -Z1 /tmp/psych-engine.zip | wc -l
+
+      - name: Descargar ZIP del mod
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fL --retry 3 "https://github.com/mariojr1317/vs-missa-1.0.1/releases/download/Psych-Engine-1.0.1/fnf_vs_missasinfonia_v3_fe527.zip" -o /tmp/vs-missasinfonia.zip
+          echo "=== DATOS DEL ZIP VS MISSASINFONIA ==="
+          ls -lh /tmp/vs-missasinfonia.zip
+          echo "=== PRIMEROS 100 ARCHIVOS ==="
+          unzip -Z1 /tmp/vs-missasinfonia.zip | head -100 || true
+          echo "=== CARPETAS Y ARCHIVOS CLAVE DEL MOD ==="
+          unzip -Z1 /tmp/vs-missasinfonia.zip | grep -Ei '(^|/)(mods|data|songs|images|scripts|stages|characters|weeks|modsList\.txt|pack\.json)(/|$|\.)' | head -200 || true
+          echo "=== TOTAL DE ARCHIVOS ==="
+          unzip -Z1 /tmp/vs-missasinfonia.zip | wc -l

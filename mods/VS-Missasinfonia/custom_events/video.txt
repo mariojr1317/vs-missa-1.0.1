@@ -1,3 +1,0 @@
-value 1: name of video
-
-value 2: hud type (hud,game,other)
